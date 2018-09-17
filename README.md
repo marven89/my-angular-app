@@ -4,10 +4,10 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Frameworks used
 
-SASS
-Bootstrap4
-Font Awesome5
-NG Bootstrap
+- SASS
+- Bootstrap4
+- Font Awesome5
+- NG Bootstrap
 
 ## Development server
 

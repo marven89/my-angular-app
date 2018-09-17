@@ -2,7 +2,7 @@
 
 A custom ready to use Angular6 basic project with SCSS, Bootstrap4, Font Awesome5, NG Bootstrap.
 
-** After installing this Project **
+**After installing this Project**
 
 Follow the video tutorial or written articles to install required NPM modules.
 

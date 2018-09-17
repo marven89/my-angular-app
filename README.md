@@ -1,10 +1,10 @@
 # MyAngularApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
+A custom ready to use basic Angular6 project with SCSS, Bootstrap4, Font Awesome5, NG Bootstrap. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
 ## Frameworks used
 
-- SASS
+- SCSS
 - Bootstrap4
 - Font Awesome5
 - NG Bootstrap

@@ -1,6 +1,6 @@
 # MyAngularApp
 
-A custom ready to use basic Angular6 project with SCSS, Bootstrap4, Font Awesome5, NG Bootstrap.
+A custom ready to use Angular6 basic project with SCSS, Bootstrap4, Font Awesome5, NG Bootstrap.
 
 ## Frameworks used
 

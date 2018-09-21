@@ -9,6 +9,7 @@ Follow the video tutorial or written articles to install required NPM modules.
 
 ## Step by step explanation
 Written Article: [https://bit.ly/2NgcLbc](https://bit.ly/2NgcLbc)
+Video Tutorial:  [https://bit.ly/2PQK15N](https://bit.ly/2PQK15N)
 
 
 ## Built with

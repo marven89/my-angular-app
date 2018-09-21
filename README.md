@@ -12,12 +12,10 @@ Written Article: [https://bit.ly/2NgcLbc](https://bit.ly/2NgcLbc) \
 Video Tutorial:  [https://bit.ly/2PQK15N](https://bit.ly/2PQK15N)
 
 
-## Built with
+## Technologies
 - Node 8.11.1
-- Angular CLI 6.0.8
-- Angualr 6.1.7
-
-## Frameworks used
+- Angular CLI 6.0.0
+- Angualr 6.0.0
 - SCSS
 - Bootstrap4
 - Font Awesome5
